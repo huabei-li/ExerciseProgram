@@ -144,7 +144,9 @@ double CalcExp(char express[])
 					data.pop();
 					a = data.top();
 					data.pop();				//两个操作数出栈
-					double t = calculate(a,opera,b);	//计算结果
+					double t = calculate(a,opera,b);					//计算结果
+					if(t!=(int)t) return 0.1; //防止出现除零乘零的情况
+					else 
 					data.push(t);		//将结算结果入栈
 					break;
 			}
