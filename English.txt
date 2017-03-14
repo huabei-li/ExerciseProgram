@@ -1,0 +1,7 @@
+Welcome to use the English interface
+PS: enter the answer after @ character 
+Please enter the required number of:
+Wrong!right answer is :
+Right!
+Correct rate is :
+ 

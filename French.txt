@@ -1,0 +1,6 @@
+Bienvenue ¨¤ l'interface de fran?ais
+PS: En r¨¦ponse ¨¤ l'entr¨¦e de caract¨¨res @ derri¨¨re
+Saisissez le nombre requis de questions:
+Mauvaise r¨¦ponse, la bonne r¨¦ponse est:
+La r¨¦ponse correcte
+Pr¨¦cision:
